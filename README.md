@@ -12,3 +12,4 @@
 python server.py
 ```
 
+Open the browser and navigate to [http://127.0.0.1:8090](http://127.0.0.1:8090)
